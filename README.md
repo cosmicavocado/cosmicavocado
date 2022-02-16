@@ -1,4 +1,6 @@
-### Hi there 👋
+## I'm Mariah Legg!
+
+I'm a Full Stack Software Engineer with a passion for development and an obsession with problem solving. I am always open to new opportunities to learn and grow!
 
 <!--
 **cosmicavocado/cosmicavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

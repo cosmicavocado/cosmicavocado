@@ -1,4 +1,4 @@
-## I'm Mariah Legg!
+## I'm Mariah Legg! 👩‍💻
 
 I'm a Full Stack Software Engineer with a passion for development and an obsession with problem solving. I am always open to new opportunities to learn and grow!
 

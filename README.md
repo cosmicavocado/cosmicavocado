@@ -20,4 +20,7 @@ I'm a Full Stack Software Engineer with a passion for development and an obsessi
 
 ---
 
+## My GitHub Stats 📈
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicavocado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicavocado&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

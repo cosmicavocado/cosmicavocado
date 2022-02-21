@@ -2,6 +2,14 @@
 
 I'm a Full Stack Software Engineer with a passion for development and an obsession with problem solving. I am always open to new opportunities to learn and grow!
 
+---
+
+🧰 Toolbox
+
+<img src="images/java.svg" alt="java logo" height="50px" width="50px" /><img src="images/spring.svg" alt="spring logo" height="50px" width="50px"/><img src="images/c++.svg" alt="c++ logo" height="50px" width="50px"/><img src="images/html.svg" alt="html5 logo" height="50px" width="50px"/><img src="images/css.svg" alt="css3 logo" height="50px" width="50px"/><img src="images/javascript.svg" alt="javascript logo" height="50px" width="50px"/><img src="images/angular.svg" alt="angular logo" height="50px" width="50px"/><img src="images/nodejs.svg" alt="nodejs logo" height="50px" width="50px"/><img src="images/npm.svg" alt="npm logo" height="50px" width="50px"/><img src="images/bootstrap.svg" alt="bootstrap logo" height="50px" width="50px"/><img src="images/mysql.svg" alt="mysql logo" height="50px" width="50px"/><img src="images/postgresql.svg" alt="postgresql logo" height="50px" width="50px"/><img src="images/php.svg" alt="php logo" height="50px" width="50px"/>
+
+---
+
 <!--
 **cosmicavocado/cosmicavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
